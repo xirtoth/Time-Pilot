@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CubeSpawner.cs" />
     <Compile Include="Assets\rotate.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/unitystuff/git/Time-Pilot/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
