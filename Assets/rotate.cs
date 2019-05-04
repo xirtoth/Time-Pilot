@@ -14,6 +14,7 @@ public class rotate : MonoBehaviour
     void Update()
     {
 
-        transform.Rotate(new Vector3(0, 1, 0));
+        transform.Rotate(new Vector3(1, 1, 1));
+        Debug.Log("GITHUB");
     }
 }
